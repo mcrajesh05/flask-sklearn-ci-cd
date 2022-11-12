@@ -1,2 +1,6 @@
-pylint
-pytest
+Flask==2.2.2
+pandas==1.5.1
+scikit-learn==1.1.3
+joblib==1.2.0
+pylint==2.15.5
+pytest==7.2.0
