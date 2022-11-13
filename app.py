@@ -32,6 +32,9 @@ def predict():
         # clf = joblib.load("./Housing_price_model/LinearRegression.joblib")
         # clf = joblib.load("./Housing_price_model/StochasticGradientDescent.joblib")
         clf = joblib.load("./Housing_price_model/GradientBoostingRegressor.joblib")
+    except (KeyError,ValueError) as error:
+        logging.exception(error)
+        return error
     except Exception as error:
         LOG.info("JSON payload: %s json_payload")
         logging.exception(error)
