@@ -18,19 +18,27 @@ This project is a Python flask app that serves out predictions (inference) about
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+![image](https://user-images.githubusercontent.com/31588719/201898607-ed5af84c-19ca-45ad-b666-8292056610b6.png)
 
 * Project cloned into Azure Cloud Shell
+![image](https://user-images.githubusercontent.com/31588719/201898930-c2c37881-7fa4-4d6e-a182-9b37c84f6e3a.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![image](https://user-images.githubusercontent.com/31588719/201897490-72dab226-2b39-4a72-8d81-4537e129e16e.png)
+
+![image](https://user-images.githubusercontent.com/31588719/201897657-d3b4f10d-a764-401e-9aa6-19864e544206.png)
 
 * Output of a test run
+![image](https://user-images.githubusercontent.com/31588719/201897140-55d32cb4-7688-416a-89fa-0ebf0ce0b3aa.png)
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines. 
+![image](https://user-images.githubusercontent.com/31588719/201896755-ad2af0e8-3b20-4987-b122-9b7c74c78c1a.png)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![image](https://user-images.githubusercontent.com/31588719/201896894-211d1337-e315-49f5-ac13-c86cc76846d1.png)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+
+* Successful prediction from deployed flask app in Azure Cloud Shell. The output should look similar to this:
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
@@ -39,8 +47,10 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
+![image](https://user-images.githubusercontent.com/31588719/201896358-326c7e3f-75e0-4d00-b16e-21e84825d6e6.png)
 
-> 
+
+
 
 ## Enhancements
 
