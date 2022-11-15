@@ -4,7 +4,6 @@
 This project is a Python flask app that serves out predictions (inference) about housing prices through API calls which can be extended to any pre-trained machine learning model, such as those for image recognition and data labeling. The project provides pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. I will build a Github repository from scratch and create a scaffolding that will assist me in performing both Continuous Integration and Continuous Delivery of this proejct. I will use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle and then integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service
 
 ## Project Plan
-<TODO: Project Plan
 
 ### A link to a Trello board for the project
     https://trello.com/b/RiLD4v8E/flask-ml-cicd-pipeline-project-board
@@ -12,8 +11,8 @@ This project is a Python flask app that serves out predictions (inference) about
 
 ## Instructions
 
-<TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
+![image](https://user-images.githubusercontent.com/31588719/201996904-336fa280-bf45-4905-87d7-bd08a38ca528.png)
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
@@ -45,11 +44,11 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+![image](https://user-images.githubusercontent.com/31588719/201994925-66269602-5058-4b82-ad79-7a51cb1375c2.png)
+
 
 * Output of streamed log files from deployed application
 ![image](https://user-images.githubusercontent.com/31588719/201896358-326c7e3f-75e0-4d00-b16e-21e84825d6e6.png)
-
-
 
 
 ## Enhancements
