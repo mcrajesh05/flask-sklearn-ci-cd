@@ -53,6 +53,12 @@ Port: 443
 #### Output of streamed log files from deployed application
 ![image](https://user-images.githubusercontent.com/31588719/201896358-326c7e3f-75e0-4d00-b16e-21e84825d6e6.png)
 
+## Load test an application using Locust.
+![image](https://user-images.githubusercontent.com/31588719/202239096-69f65fd1-88b6-4d9d-9bf2-4cb33d59ac32.png)
+![image](https://user-images.githubusercontent.com/31588719/202239071-2fff3e92-4cc5-49d5-9a81-23d5d80172a0.png)
+
+## Test an application inside of Azure Pipelines
+![image](https://user-images.githubusercontent.com/31588719/202239610-603e4482-ad53-4fb7-8acd-af299396c5cd.png)
 
 ## Enhancements
 
