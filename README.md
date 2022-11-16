@@ -18,7 +18,7 @@ This project is a Python flask app that serves out predictions (inference) about
 ![image](https://user-images.githubusercontent.com/31588719/201996904-336fa280-bf45-4905-87d7-bd08a38ca528.png)
 
 ###  Instructions for running the Python project.
-A pdf document : ci-cd-pipeline project is provided for sgtep by stemp instrucntions.
+A pdf document : ci-cd-pipeline-project.pdf is provided for step by step instrucntions.
 #### Project running on Azure App Service
 ![image](https://user-images.githubusercontent.com/31588719/201898607-ed5af84c-19ca-45ad-b666-8292056610b6.png)
 
