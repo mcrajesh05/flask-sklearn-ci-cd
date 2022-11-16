@@ -6,7 +6,7 @@ This project is a Python flask app that serves out predictions (inference) about
 ## Project Plan
 
 ### A link to a Trello board for the project
-    https://trello.com/b/RiLD4v8E/flask-ml-cicd-pipeline-project-board
+   https://trello.com/invite/b/RiLD4v8E/ATTI2bb7d86a72ce650e01e45df54cc9724149EC5FD6/flask-ml-cicd-pipeline-project-board
 ### A link to a spreadsheet that includes the original and final project plan
 [CI-CD-Pipeline-Project-Management Plan.xlsx](https://github.com/mcrajesh05/flask-sklearn-ci-cd/files/10019571/CI-CD-Pipeline-Project-Management.Plan.xlsx)
 ### A link to a spreadsheet that includes estimation plan
