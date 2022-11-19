@@ -12,7 +12,7 @@ This project is a Python flask app that serves out predictions (inference) about
 ### A link to a spreadsheet that includes estimation plan
 [CI-CD-Pipeline-Project-Estimation.xlsx](https://github.com/mcrajesh05/flask-sklearn-ci-cd/files/10019578/CI-CD-Pipeline-Project-Estimation.xlsx)
 
-## Instructions
+## Instructions for project
 
 ### Architectural Diagram (Shows how key parts of the system work)>
 ![image](https://user-images.githubusercontent.com/31588719/201996904-336fa280-bf45-4905-87d7-bd08a38ca528.png)
